@@ -1,0 +1,5 @@
+EDILIA PRO — DEMO PWA PERSONALE v0.3
+Questa e' una demo web, NON un file IPA iOS e NON un'app gia' installabile.
+Per provarla su computer: nella cartella esegui python3 -m http.server 8000 e apri http://localhost:8000.
+Per usarla come app su iPhone: pubblica i file su un hosting HTTPS (per esempio GitHub Pages o Netlify), apri l'indirizzo in Safari, Condividi > Aggiungi alla schermata Home. Dopo il primo caricamento completo la PWA puo' essere usata offline; il browser puo' cancellare i dati locali in alcune circostanze.
+Le lezioni sono testi introduttivi, non contenuti professionali validati. Non usare per calcoli di sicurezza o obblighi di legge.

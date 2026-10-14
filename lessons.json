@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "title": "Disegno tecnico",
+    "category": "Fondamenti",
+    "summary": "Proiezioni ortogonali, scale, quotatura e lettura tavole",
+    "body": "Disegno tecnico — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di proiezioni ortogonali, scale, quotatura e lettura tavole; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 2,
+    "title": "Matematica applicata",
+    "category": "Fondamenti",
+    "summary": "Aree, volumi, trigonometria e unità di misura",
+    "body": "Matematica applicata — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di aree, volumi, trigonometria e unità di misura; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 3,
+    "title": "Fisica tecnica",
+    "category": "Fondamenti",
+    "summary": "Calore, umidità, trasmittanza e acustica",
+    "body": "Fisica tecnica — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di calore, umidità, trasmittanza e acustica; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 4,
+    "title": "Materiali da costruzione",
+    "category": "Fondamenti",
+    "summary": "Calcestruzzo, acciaio, legno e laterizi",
+    "body": "Materiali da costruzione — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di calcestruzzo, acciaio, legno e laterizi; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 5,
+    "title": "Progettazione architettonica",
+    "category": "Progettazione",
+    "summary": "Spazi, accessibilità, dettagli costruttivi",
+    "body": "Progettazione architettonica — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di spazi, accessibilità, dettagli costruttivi; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 6,
+    "title": "Urbanistica",
+    "category": "Progettazione",
+    "summary": "Piani, indici urbanistici e titoli abilitativi",
+    "body": "Urbanistica — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di piani, indici urbanistici e titoli abilitativi; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 7,
+    "title": "Sostenibilità e CAM",
+    "category": "Progettazione",
+    "summary": "LCA, criteri ambientali e certificazioni",
+    "body": "Sostenibilità e CAM — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di lca, criteri ambientali e certificazioni; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 8,
+    "title": "Restauro",
+    "category": "Progettazione",
+    "summary": "Diagnostica e interventi sul costruito",
+    "body": "Restauro — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di diagnostica e interventi sul costruito; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 9,
+    "title": "Strutture",
+    "category": "Ingegneria",
+    "summary": "Statica, azioni, elementi strutturali",
+    "body": "Strutture — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di statica, azioni, elementi strutturali; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 10,
+    "title": "Geotecnica",
+    "category": "Ingegneria",
+    "summary": "Terreni, indagini e fondazioni",
+    "body": "Geotecnica — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di terreni, indagini e fondazioni; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 11,
+    "title": "Ingegneria sismica",
+    "category": "Ingegneria",
+    "summary": "Duttilità, vulnerabilità e rinforzi",
+    "body": "Ingegneria sismica — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di duttilità, vulnerabilità e rinforzi; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 12,
+    "title": "Impianti MEP",
+    "category": "Impianti",
+    "summary": "HVAC, idrico-sanitari, elettrici e antincendio",
+    "body": "Impianti MEP — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di hvac, idrico-sanitari, elettrici e antincendio; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 13,
+    "title": "Topografia",
+    "category": "Cantiere",
+    "summary": "Livellazione, GNSS, stazione totale",
+    "body": "Topografia — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di livellazione, gnss, stazione totale; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 14,
+    "title": "Sicurezza in cantiere",
+    "category": "Cantiere",
+    "summary": "Rischi, PSC, POS e coordinamento",
+    "body": "Sicurezza in cantiere — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di rischi, psc, pos e coordinamento; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 15,
+    "title": "Gestione del cantiere",
+    "category": "Cantiere",
+    "summary": "Programmazione, mezzi e rifiuti",
+    "body": "Gestione del cantiere — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di programmazione, mezzi e rifiuti; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 16,
+    "title": "Computo metrico",
+    "category": "Amministrazione",
+    "summary": "Quantità, prezzi e analisi delle lavorazioni",
+    "body": "Computo metrico — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di quantità, prezzi e analisi delle lavorazioni; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 17,
+    "title": "Contabilità lavori",
+    "category": "Amministrazione",
+    "summary": "Libretto misure, SAL e certificati",
+    "body": "Contabilità lavori — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di libretto misure, sal e certificati; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 18,
+    "title": "Gare e appalti",
+    "category": "Amministrazione",
+    "summary": "Bandi, offerte, requisiti e subappalti",
+    "body": "Gare e appalti — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di bandi, offerte, requisiti e subappalti; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 19,
+    "title": "Normativa edilizia",
+    "category": "Normativa",
+    "summary": "Fonti, autorizzazioni e responsabilità",
+    "body": "Normativa edilizia — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di fonti, autorizzazioni e responsabilità; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 20,
+    "title": "AutoCAD",
+    "category": "Software",
+    "summary": "Disegno 2D, layer, blocchi e layout",
+    "body": "AutoCAD — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di disegno 2d, layer, blocchi e layout; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 21,
+    "title": "Revit",
+    "category": "Software",
+    "summary": "Famiglie, livelli, viste e abachi",
+    "body": "Revit — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di famiglie, livelli, viste e abachi; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 22,
+    "title": "Archicad e Allplan",
+    "category": "Software",
+    "summary": "Modellazione BIM e documentazione",
+    "body": "Archicad e Allplan — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di modellazione bim e documentazione; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 23,
+    "title": "SAP2000 ed ETABS",
+    "category": "Software",
+    "summary": "Modelli strutturali e verifiche",
+    "body": "SAP2000 ed ETABS — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di modelli strutturali e verifiche; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 24,
+    "title": "PriMus",
+    "category": "Software",
+    "summary": "Computi, prezzari e contabilità",
+    "body": "PriMus — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di computi, prezzari e contabilità; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 25,
+    "title": "Primavera P6 e MS Project",
+    "category": "Software",
+    "summary": "WBS, Gantt e percorso critico",
+    "body": "Primavera P6 e MS Project — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di wbs, gantt e percorso critico; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  },
+  {
+    "id": 26,
+    "title": "Lumion, Enscape e V-Ray",
+    "category": "Software",
+    "summary": "Materiali, luci e rendering",
+    "body": "Lumion, Enscape e V-Ray — introduzione operativa.\\n\\nObiettivi: comprendere i concetti chiave di materiali, luci e rendering; distinguere dati, ipotesi e risultati; individuare le norme applicabili e documentare le verifiche.\\n\\nPercorso consigliato: 1. Leggi i principi teorici. 2. Studia un elaborato o un caso reale. 3. Ripeti un esercizio con unità coerenti. 4. Controlla fonti normative e versioni software prima dell’uso professionale.\\n\\nQuesto è un modulo introduttivo dimostrativo, non un trattato completo né un parere professionale.",
+    "minutes": 15
+  }
+]
